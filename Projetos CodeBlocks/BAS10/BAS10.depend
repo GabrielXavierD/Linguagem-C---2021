@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632009560 source:c:\users\cliente\desktop\if\logica de programação\projetos codeblocks\bas10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
