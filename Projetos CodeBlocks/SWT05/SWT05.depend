@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634442118 source:c:\users\cliente\desktop\if\logica de programação\projetos codeblocks\swt05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

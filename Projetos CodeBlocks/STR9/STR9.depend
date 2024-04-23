@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639168174 source:c:\users\cliente\desktop\if\logica de programação\projetos codeblocks\str9\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
